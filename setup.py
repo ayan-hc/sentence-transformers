@@ -12,7 +12,7 @@ setup(
     long_description=readme,
     long_description_content_type="text/markdown",
     license="Apache License 2.0",
-    url="https://github.com/UKPLab/sentence-transformers",
+    url="https://github.com/ayan-hc/sentence-transformers",
     download_url="https://github.com/UKPLab/sentence-transformers/archive/v0.2.5.zip",
     packages=find_packages(),
     install_requires=[
