@@ -1,4 +1,5 @@
 from .ALBERT import ALBERT
+from .AUTO import AUTO
 from .BERT import BERT
 from .BoW import BoW
 from .CamemBERT import CamemBERT
@@ -13,4 +14,3 @@ from .WordEmbeddings import WordEmbeddings
 from .WordWeights import WordWeights
 from .XLMRoBERTa import XLMRoBERTa
 from .XLNet import XLNet
-from .AUTO import AUTO
